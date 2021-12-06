@@ -1,0 +1,17 @@
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\bin\Debug\net6.0\API_Klient.exe
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\bin\Debug\net6.0\API_Klient.deps.json
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\bin\Debug\net6.0\API_Klient.runtimeconfig.json
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\bin\Debug\net6.0\API_Klient.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\bin\Debug\net6.0\ref\API_Klient.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\bin\Debug\net6.0\API_Klient.pdb
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\bin\Debug\net6.0\RestSharp.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\obj\Debug\net6.0\API_Klient.csproj.AssemblyReference.cache
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\obj\Debug\net6.0\API_Klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\obj\Debug\net6.0\API_Klient.AssemblyInfoInputs.cache
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\obj\Debug\net6.0\API_Klient.AssemblyInfo.cs
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\obj\Debug\net6.0\API_Klient.csproj.CoreCompileInputs.cache
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\obj\Debug\net6.0\API_Klient.csproj.CopyComplete
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\obj\Debug\net6.0\API_Klient.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\obj\Debug\net6.0\ref\API_Klient.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\obj\Debug\net6.0\API_Klient.pdb
+C:\Users\lorens.vinge\Documents\Programmring 2\API_Klient\API_Klient\obj\Debug\net6.0\API_Klient.genruntimeconfig.cache

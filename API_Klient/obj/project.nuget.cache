@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSCyCjDSNJiUkEd2kRsn16eOF6ZKAnADMx8AmN/7548PD4JKYzuqwOBogoWhkijrMiwHlU016Gx4maDYxlaDyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lorens.vinge\\Documents\\Programmring 2\\API_Klient\\API_Klient\\API_Klient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lorens.vinge\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
